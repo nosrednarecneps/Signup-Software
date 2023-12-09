@@ -3,3 +3,4 @@ settings.json
 node_modules/
 example.js
 route.rest
+package-lock.json
